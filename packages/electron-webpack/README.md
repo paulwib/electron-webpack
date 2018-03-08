@@ -5,4 +5,4 @@ This is a fork of [electron-webpack][] temporarily published as a package to tes
 It's not recommended to use this version!
 
 [electron-webpack]:https://github.com/electron-userland/electron-webpack/
-[this PR]:https://github.com/electron-userland/electron-webpack/pull/108
+[this pull request]:https://github.com/electron-userland/electron-webpack/pull/108
